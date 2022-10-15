@@ -9,7 +9,7 @@ const Navbar = () => {
         <a href="#foryou">Clubs</a>
         <a href="#services">Players</a>
         <a href="#blog">Leagues</a>
-        <a href="#vlog">Lİve Matches</a>
+        <a href="#vlog">Live Matches</a>
       </div>
     );
 }
